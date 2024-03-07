@@ -64,7 +64,7 @@ $$
 
 Tables are generally created and output from notebooks in the /notebooks folder.  You can then embed these tables in your manuscript.
 
-{{< embed notebooks/tables.qmd#table-1 >}}
+<!-- {{< embed notebooks/tables.qmd#table-1 >}} -->
 
 
 Alternatively, this is an example of a simple table that is hard-coded using markdown table format.  We don't recommend this for tables built from data. Tables values should come directly from data so they don't need to be typed in and will update if your data change.  However, you may have other uses for simple tables where this method is helpful.
